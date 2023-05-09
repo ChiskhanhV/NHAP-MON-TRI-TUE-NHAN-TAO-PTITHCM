@@ -1,0 +1,63 @@
+============================================================
+Are hard restrictions for professors satisfied: True
+Are hard restrictions for classrooms satisfied:: True
+Are hard restrictions for groups satisfied: False
+Are hard restrictions for allowed classrooms satisfied: True
+============================================================
+Subject cost for subject Objektno orijentisano programiranje is: 5
+Subject cost for subject Matematicka analiza is: 2
+Subject cost for subject Diskretne strukture is: 2
+Subject cost for subject Engleski 2 is: 0
+Subject cost for subject Pismeno i usmeno izrazavanje is: 0
+Subject cost for subject Muzicka produkcija 1 is: 2
+Subject cost for subject Ilustracija is: 0
+Subject cost for subject Dizajn i informacione tehnologije is: 0
+Subject cost for subject Administracija i odrzavanje sistema 2 is: 0
+Subject cost for subject Osnovi informacionih tehnologija is: 0
+Subject cost for subject Poslovni softver is: 0
+Subject cost for subject Operativni sistemi is: 4
+Subject cost for subject Racunarske mreze is: 4
+Subject cost for subject Upravljanje informacijama is: 2
+Subject cost for subject Dizajn i analiza algoritama is: 2
+Subject cost for subject Digitalne komunikacije is: 2
+Subject cost for subject Napredna matematicka analiza is: 0
+Subject cost for subject Engleski jezik 4 is: 0
+Subject cost for subject Grafiicki dizajn 1 is: 1
+Subject cost for subject Muzicka produkcija 2 is: 0
+Subject cost for subject Prostor i oblik is: 0
+Subject cost for subject Racunarske komunikacije is: 2
+Subject cost for subject Programiranje WEB aplikacija is: 0
+Subject cost for subject Interakcija covek racunar is: 0
+Subject cost for subject Elektronsko poslovanje is: 1
+Subject cost for subject Programski prevodioci is: 7
+Subject cost for subject Masinsko ucenje is: 0
+Subject cost for subject WEB programiranje is: 9
+Subject cost for subject Softverske komponente is: 0
+Subject cost for subject Genetski algoritmi is: 0
+Subject cost for subject Funkcionalno programiranje is: 0
+Subject cost for subject Razvoj mobilnih aplikacija is: 0
+Subject cost for subject Modelovanje i simulacija is: 3
+Subject cost for subject Bezbednost mreza is: 0
+Subject cost for subject Kompresija podataka is: 0
+Subject cost for subject Kodovanje i teorija informacija is: 0
+Subject cost for subject Uvod u robotiku is: 0
+Subject cost for subject Data centar infrastruktura is: 0
+Subject cost for subject Graficki dizajn 2 is: 0
+Subject cost for subject Muzicka produkcija 3 is: 1
+Subject cost for subject Racunarska animacija is: 0
+Subject cost for subject Scenario i knjiga snimanja is: 0
+Subject cost for subject Upravljanje i odrzavanje Windows Server okruzenja is: 0
+Subject cost for subject Implementiranje Microsoft ISA servera is: 0
+Subject cost for subject Prakticne tehnike zastite u IP mrezama is: 1
+Subject cost for subject Istorija racunarstva is: 0
+Subject cost for subject Razvoj infrastrukture i servisa u oblaku is: 0
+Subject cost for subject Razvoj web aplikacija i servisa is: 0
+Subject cost for subject Microsoft tehnologije za pristup podacima is: 0
+Subject cost for subject Konkurentni i distribuirani sistemi is: 0
+Subject cost for subject Softversko inzenjerstvo is: 2
+Subject cost for subject Teorija algoritama, automata i jezika is: 0
+Subject cost for subject Digitalna obrada signala is: 0
+Subject cost for subject Namenski racunarski sistemi is: 0
+Total subject cost: 52
+============================================================
+============================================================
